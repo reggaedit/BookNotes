@@ -6,7 +6,9 @@ Index
   - [Rule 1: Work Deeply](#rule-1-work-deeply)
     - [Decide on my Depth Philosophy](#decide-on-my-depth-philosophy)
     - [Ritualise](#ritualise)
-    - [Make Grand Gestures](make-grand-gestures)
+    - [Make Grand Gestures](#make-grand-gestures)
+    - [Don't Work Alone](#dont-work-alone)
+    - [Execute Like a Business](#execute-like-a-business)
 
 ## Part 2: The Rules
 
