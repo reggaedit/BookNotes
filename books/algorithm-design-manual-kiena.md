@@ -2,4 +2,4 @@
 
 by Steven Kiena
 
-## Chapter 1 - Introduction to Regular Expressions
+## Chapter 1 -
